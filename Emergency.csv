@@ -1,0 +1,577 @@
+SA2_MAIN16,localities,no_vehicle,hospital,police_station,fire_station,ambulance_station,ses_facility
+101021010,"Canberra - Queanbeyan (Queanbeyan Part), Remainder of State/Territory (ACT), Remainder of State/Territory (NSW)",7,0,0,2,0,0
+101021009,Canberra - Queanbeyan (Queanbeyan Part),8.8,1,1,1,1,1
+101021008,"Canberra - Queanbeyan (Queanbeyan Part), Remainder of State/Territory (NSW)",6.7,0,0,0,0,0
+101031014,"Cooma, Remainder of State/Territory (NSW)",9.9,1,1,2,1,1
+101021012,"Canberra - Queanbeyan (Canberra Part), Canberra - Queanbeyan (Queanbeyan Part), Remainder of State/Territory (NSW)",2.4,0,0,0,0,0
+101041021,"Broulee - Mossy Point, Remainder of State/Territory (NSW), Tomakin",3.7,0,0,1,0,0
+101041017,"Batemans Bay, Long Beach (L), Maloneys Beach (L), Remainder of State/Territory (NSW)",7.6,1,1,3,0,1
+101041018,"Batemans Bay, Malua Bay, Remainder of State/Territory (NSW), Tomakin",6.4,0,0,2,1,0
+101041019,"Bega, Kalaru (L), Remainder of State/Territory (NSW), Tarraganda (L), Tathra",5.6,1,2,5,1,1
+101031013,"Bombala, Delegate (L), Remainder of State/Territory (NSW), Remainder of State/Territory (Vic.)",18,2,2,10,1,1
+101041023,"Eden, Remainder of State/Territory (NSW)",8.6,0,1,2,1,1
+101041025,"Merimbula, Pambula, Remainder of State/Territory (NSW), South Pambula (L)",6.1,1,1,3,1,0
+101041026,"Moruya, Moruya Heads (L), Remainder of State/Territory (NSW), Tuross Head",4.5,1,1,4,1,1
+101021007,"Braidwood, Remainder of State/Territory (NSW)",2.7,1,1,11,1,1
+101031016,"Berridale (L), East Jindabyne (L), Jindabyne, Lakewood Estate (L), Perisher Village (L), Remainder of State/Territory (NSW), Remainder of State/Territory (Vic.), Thredbo Village (L)",2.3,0,4,16,2,1
+101041022,No localities found,-999,0,0,0,0,0
+101061541,No localities found,4.7,1,1,1,1,1
+101061543,No localities found,8.2,2,1,5,1,1
+101021011,"Bungendore, Canberra - Queanbeyan (Canberra Part), Canberra - Queanbeyan (Queanbeyan Part), Captains Flat (L), Googong, Remainder of State/Territory (ACT), Remainder of State/Territory (NSW)",0.9,0,4,13,0,2
+102011029,Central Coast,3.5,0,0,3,0,0
+101031015,"Adaminaby (L), Nimmitabel (L), Remainder of State/Territory (ACT), Remainder of State/Territory (NSW)",2.3,0,2,12,0,1
+101051539,"Goulburn, Remainder of State/Territory (NSW)",9.3,3,1,3,1,2
+102011028,Central Coast,0.8,0,0,2,0,0
+102011031,"Central Coast, Remainder of State/Territory (NSW)",9.1,0,0,2,0,1
+102011032,"Central Coast, Remainder of State/Territory (NSW)",13.9,1,1,1,0,0
+102011033,"Central Coast, Remainder of State/Territory (NSW)",1.8,0,0,3,0,0
+102011034,Central Coast,7.5,0,0,1,0,0
+101041024,"Batemans Bay, Bawley Point (L), Bodalla (L), Broulee - Mossy Point, Dalmeny, Kioloa (L), Long Beach (L), Mogo (L), Nelligen (L), Remainder of State/Territory (NSW), South Durras (L), Tomakin, Tuross Head",1.7,0,1,9,0,0
+102011035,"Central Coast, Remainder of State/Territory (NSW)",4.4,0,0,1,0,0
+101041027,"Bermagui, Dalmeny, Narooma, Remainder of State/Territory (NSW), Wallaga Lake (L)",4.6,0,2,5,2,1
+102011030,"Central Coast, Mooney Mooney (L), Remainder of State/Territory (NSW)",2.8,0,0,8,1,0
+102011037,"Central Coast, Remainder of State/Territory (NSW)",7,0,0,0,1,0
+102011038,Central Coast,6.7,0,0,1,0,0
+102011039,Central Coast,2.7,0,1,1,1,0
+102011041,"Central Coast, Remainder of State/Territory (NSW)",2,0,0,1,0,0
+102011036,"Central Coast, Remainder of State/Territory (NSW)",3.5,0,0,0,0,0
+102011043,"Central Coast, Remainder of State/Territory (NSW)",6.1,0,0,1,0,0
+102011042,"Central Coast, Remainder of State/Territory (NSW)",12.7,1,1,2,0,0
+102011040,"Central Coast, Patonga (L), Remainder of State/Territory (NSW)",13.3,0,0,3,1,0
+102021044,Central Coast,6.7,1,0,1,1,0
+102021045,"Central Coast, Remainder of State/Territory (NSW), Wyee",3.2,0,0,1,1,0
+102021046,Central Coast,4.8,0,0,1,0,0
+102021047,"Central Coast, Remainder of State/Territory (NSW)",3.6,0,0,2,0,0
+101041020,"Bega, Bemboka (L), Candelo (L), Cobargo (L), Remainder of State/Territory (NSW), Remainder of State/Territory (Vic.), South Pambula (L), Tarraganda (L), Wolumla (L)",1.7,0,3,19,0,0
+101061544,"Boorowa, Harden - Murrumburrah, Koorawatha (L), Remainder of State/Territory (NSW)",3.8,2,3,19,2,1
+102021048,Central Coast,6.9,0,0,1,0,0
+101061542,"Binalong (L), Bowning (L), Gundaroo (L), Gunning (L), Hall (L), Murrumbateman, Remainder of State/Territory (ACT), Remainder of State/Territory (NSW), Sutton (L)",0.6,0,3,20,0,1
+102021050,"Central Coast, Murrays Beach (L), Remainder of State/Territory (NSW)",5.9,0,0,2,0,0
+102021052,No localities found,2.2,0,0,1,0,0
+102021051,"Central Coast, Remainder of State/Territory (NSW)",1.1,0,0,1,0,0
+102021049,"Central Coast, Jilliby (L), Remainder of State/Territory (NSW)",0.1,0,0,2,0,0
+102021054,Central Coast,9.9,0,1,1,1,0
+102021053,Central Coast,12.7,0,1,1,0,0
+102021055,"Central Coast, Remainder of State/Territory (NSW)",4.8,0,0,1,0,0
+102021057,"Central Coast, Remainder of State/Territory (NSW)",15,0,1,1,1,1
+103011059,"Bathurst, Remainder of State/Territory (NSW)",5.8,0,0,2,0,0
+102021056,"Central Coast, Remainder of State/Territory (NSW)",2.9,1,0,3,0,0
+103011058,"Bathurst, Remainder of State/Territory (NSW)",8.8,1,1,3,1,2
+103021063,"Cowra, Remainder of State/Territory (NSW)",8.2,1,1,3,1,1
+103021067,"Parkes, Remainder of State/Territory (NSW)",9.4,1,1,2,1,2
+103031070,"Lithgow, Marrangaroo (L), Remainder of State/Territory (NSW)",13.6,1,1,4,1,1
+103021064,"Canowindra, Cowra, Koorawatha (L), Remainder of State/Territory (NSW), Woodstock (L)",4.8,1,3,15,1,2
+103021065,"Eugowra (L), Forbes, Remainder of State/Territory (NSW)",5.3,2,2,17,1,2
+103021066,"Grenfell, Remainder of State/Territory (NSW)",6.9,1,4,10,1,1
+103031072,"Mudgee, Putta Bucca - Bombira (L), Remainder of State/Territory (NSW)",8.4,1,1,2,1,1
+103021069,"Barmedman (L), Remainder of State/Territory (NSW), Ungarie (L), West Wyalong, Wyalong (L)",4.5,1,5,11,1,1
+101051540,"Crookwell, Goulburn, Marulan (L), Remainder of State/Territory (NSW), Taralga (L)",3.1,1,6,34,1,4
+103011060,"Perthville (L), Remainder of State/Territory (NSW)",1.8,0,3,19,0,1
+103031075,"Lithgow, Remainder of State/Territory (NSW)",-999,0,0,0,0,0
+103021068,"Peak Hill (L), Remainder of State/Territory (NSW), Trundle (L)",7.2,2,3,9,1,2
+103011061,"Oberon, Remainder of State/Territory (NSW)",3.2,1,1,18,1,2
+103041077,"Orange, Remainder of State/Territory (NSW)",11.7,1,1,1,1,0
+103041076,"Blayney, Carcoar (L), Lyndhurst (L), Millthorpe (L), Remainder of State/Territory (NSW)",3.7,1,4,10,1,1
+103041078,"Clifton Grove (L), Orange, Remainder of State/Territory (NSW)",6.2,0,0,3,0,1
+104011080,"Grafton, Junction Hill, Remainder of State/Territory (NSW)",9.8,1,1,3,1,3
+104021084,"Coffs Harbour, Remainder of State/Territory (NSW)",8.2,0,1,0,0,0
+104011082,"Angourie (L), Brooms Head (L), Gulmarrad, Iluka, Maclean, Remainder of State/Territory (NSW), Townsend (L), Wooloweyah (L), Woombah (L), Yamba",6,1,3,7,2,2
+104021083,"Bellingen, Remainder of State/Territory (NSW)",5.3,1,1,12,1,1
+104021085,"Coffs Harbour, Remainder of State/Territory (NSW)",11.2,1,0,3,1,1
+103031071,"Cullen Bullen (L), Lithgow, Portland (NSW), Remainder of State/Territory (NSW), Wallerawang",3.3,1,3,17,0,1
+104021086,"Coffs Harbour, Coramba (L), Moonee Beach West (L), Nana Glen (L), Remainder of State/Territory (NSW)",1.4,0,1,5,0,0
+104021088,"Coffs Harbour, Emerald Beach West (L), Moonee Beach (L), Moonee Beach West (L), Remainder of State/Territory (NSW), Sandy Beach - Emerald Beach",1,0,0,2,0,0
+104021090,"Mylestom (L), Remainder of State/Territory (NSW), Repton (L), Urunga",5.5,0,1,4,1,1
+104021089,"Bonville (L), Bonville - East (L), Coffs Harbour, Remainder of State/Territory (NSW)",6.4,0,1,3,0,0
+104021091,"Arrawarra, Corindi Beach, Red Rock (L), Remainder of State/Territory (NSW), Safety Beach (L), Sandy Beach - Emerald Beach, Woolgoolga",5.6,0,1,7,1,1
+104021087,"Dorrigo, Remainder of State/Territory (NSW)",4,1,1,8,1,1
+105011094,"Coonamble, Gulargambone (L), Remainder of State/Territory (NSW)",10,2,2,8,1,1
+103031073,"Kandos, Remainder of State/Territory (NSW), Rylstone (L)",4.7,1,2,8,1,1
+103031074,"Dunedoo (L), Gulgong, Mudgee, Putta Bucca - Bombira (L), Remainder of State/Territory (NSW)",2.9,2,2,23,2,1
+105021097,"Broken Hill, Remainder of State/Territory (NSW)",12.1,1,1,2,1,1
+105031100,"Dubbo, Firgrove (L), Remainder of State/Territory (NSW)",6.9,2,0,1,0,0
+105031101,"Dubbo, Remainder of State/Territory (NSW)",10.1,0,1,1,1,1
+105031102,"Dubbo, Remainder of State/Territory (NSW)",6.8,0,0,2,0,1
+105011095,"Nyngan, Remainder of State/Territory (NSW), Warren",6.8,2,2,8,2,2
+105011092,"Bourke, Brewarrina (L), Remainder of State/Territory (NSW)",19.8,2,4,9,2,2
+103021062,"Condobolin, Lake Cargelligo, Remainder of State/Territory (NSW), Tottenham (L), Tullamore (L)",6.6,4,5,11,3,2
+105031104,"Gilgandra, Gulargambone (L), Remainder of State/Territory (NSW)",6.2,1,2,11,1,1
+105031103,"Dubbo, Firgrove (L), Remainder of State/Territory (NSW), Wongarbon (L)",0.6,0,0,14,0,0
+103041079,"Cargo (L), Clifton Grove (L), Cudal (L), Cumnock (L), Manildra (L), Molong, Orange, Remainder of State/Territory (NSW), Spring Hill (L)",2.7,2,4,21,1,1
+106011107,"Branxton, Cessnock, Greta, North Rothbury (L), Remainder of State/Territory (NSW)",1.9,0,1,6,0,0
+106011108,"Cessnock, Kurri Kurri, Remainder of State/Territory (NSW)",8.3,1,1,5,1,1
+106011111,"Kurri Kurri, Maitland (NSW), Remainder of State/Territory (NSW)",6.2,1,1,4,1,0
+106011110,"Clarence Town (L), Dungog, Gresford (L), Paterson (L), Remainder of State/Territory (NSW)",3.3,1,4,12,1,1
+106011112,No localities found,5.2,1,1,3,1,1
+105031105,"Narromine, Remainder of State/Territory (NSW), Trangie (L)",4.7,2,2,13,1,1
+105011093,"Cobar, Remainder of State/Territory (NSW)",5.1,1,2,13,1,3
+106011109,"Abernethy (L), Cessnock, Ellalong (L), Kitchener (L), Kurri Kurri, Louth Park (L), Maitland (NSW), Millfield (L), Minmi (L), Mulbring (L), Paxton (L), Remainder of State/Territory (NSW), Seahampton (L)",2.2,0,1,8,0,0
+106021114,"Kurri Kurri, Louth Park (L), Maitland (NSW), Remainder of State/Territory (NSW)",5.3,1,1,1,0,0
+106021116,"Hinton (L), Maitland (NSW), Remainder of State/Territory (NSW)",1.6,0,0,1,0,0
+106021115,"Hinton (L), Maitland (NSW), Remainder of State/Territory (NSW)",6.3,0,1,3,0,1
+106021118,"Hinton (L), Maitland (NSW), Raymond Terrace, Remainder of State/Territory (NSW)",2.4,0,0,1,0,0
+106021117,"Lochinvar (L), Maitland (NSW), Remainder of State/Territory (NSW)",5.9,0,1,4,1,1
+105011096,"Collarenebri (L), Goodooga (L), Lightning Ridge, Remainder of State/Territory (NSW), Walgett",14.3,4,6,14,3,6
+106031120,"Lemon Tree Passage, Remainder of State/Territory (NSW), Salt Ash (L), Tanilba Bay",3.8,0,1,2,1,0
+106031119,"Anna Bay - Boat Harbour, Remainder of State/Territory (NSW), Salamander Bay - Soldiers Point",2,0,0,1,0,0
+106031122,"Raymond Terrace, Remainder of State/Territory (NSW), Tomago (L)",7.9,0,1,2,1,1
+106031123,"Brandy Hill (L), Hinton (L), Maitland (NSW), Raymond Terrace, Remainder of State/Territory (NSW), Seaham (L), Wallalong (L)",0.3,0,0,3,0,0
+106031121,"Fingal Bay, Nelson Bay, Remainder of State/Territory (NSW), Salamander Bay - Soldiers Point",6,1,1,3,1,1
+106011113,"Broke (L), Remainder of State/Territory (NSW), Singleton",0.6,0,2,12,0,0
+106041126,"Muswellbrook, Remainder of State/Territory (NSW)",7,1,1,2,1,1
+106031124,"Hawks Nest (L), North Arm Cove (L), Pindimar (L), Remainder of State/Territory (NSW), Tea Gardens",5.7,0,1,4,1,0
+106031125,"Karuah, Medowie, Remainder of State/Territory (NSW), Salt Ash (L), Tomago (L)",2.2,0,1,3,0,0
+107011133,Wollongong,-999,0,1,0,0,2
+106041128,No localities found,9.6,1,1,2,1,1
+107011132,No localities found,1.7,0,0,2,0,0
+107011131,No localities found,7.2,0,1,1,1,0
+107011545,Wollongong,12.7,0,0,0,0,0
+107011546,Wollongong,23,1,0,1,1,0
+107011547,Wollongong,11.4,0,0,0,0,0
+107011134,No localities found,7.1,0,0,2,0,0
+107031137,No localities found,4.4,0,0,3,0,0
+107031138,"Kiama, Remainder of State/Territory (NSW)",6.6,1,1,1,1,1
+107031136,No localities found,2.1,0,0,3,0,1
+107021135,No localities found,-999,0,0,0,0,0
+107031142,No localities found,7.1,1,1,0,1,0
+107031141,"Kiama, Remainder of State/Territory (NSW), Wollongong",2,0,0,2,0,0
+105031099,"Baradine (L), Binnaway (L), Coolah (L), Coonabarabran, Mendooran (L), Remainder of State/Territory (NSW)",8,3,5,14,3,1
+107031139,"Kiama, Remainder of State/Territory (NSW), Wollongong",2.8,0,0,0,0,0
+107031140,"Gerringong, Gerroa (L), Jamberoo (L), Kiama, Remainder of State/Territory (NSW)",1.7,0,0,3,0,0
+105021098,"Ivanhoe (L), Menindee (L), Remainder of State/Territory (NSW), Wilcannia (L)",12.4,4,4,7,0,6
+106041127,"Denman, Muswellbrook, Remainder of State/Territory (NSW)",2.8,1,1,12,0,1
+107041144,No localities found,10.5,0,1,1,0,0
+107041145,No localities found,12.3,0,0,1,0,0
+107041147,"Helensburgh, Otford (L), Remainder of State/Territory (NSW), Stanwell Park, Stanwell Tops (L), Wollongong",2.1,0,1,5,1,0
+107041148,No localities found,4.5,1,1,4,0,0
+107041146,No localities found,7.2,0,0,1,0,0
+107031143,Wollongong,9.7,0,1,0,0,0
+107041548,Wollongong,17,1,1,0,0,2
+107041549,Wollongong,17.3,1,0,1,1,0
+107041150,No localities found,7.3,1,0,2,1,0
+108011154,"Forster - Tuncurry, Remainder of State/Territory (NSW)",10.1,0,0,1,1,0
+108011152,"Forster - Tuncurry, Green Point (L), Remainder of State/Territory (NSW)",10.1,0,1,2,0,0
+108021155,"Frederickton, Kempsey, Remainder of State/Territory (NSW)",11.9,1,1,4,1,1
+108021157,"Macksville, Nambucca Heads, Remainder of State/Territory (NSW), Scotts Head (L)",7,1,1,4,1,1
+108021158,"Hyland Park (L), Nambucca Heads, Remainder of State/Territory (NSW), Valla Beach",11.7,0,1,1,1,0
+108011153,"Boomerang Beach - Blueys Beach (L), Coomba Park (L), Elizabeth Beach (L), Forster - Tuncurry, Green Point (L), Hallidays Point - Black Head (L), Hallidays Point - West (L), Nabiac (L), Remainder of State/Territory (NSW), Smiths Lake",2.5,0,1,7,0,2
+108031161,Lord Howe Island (L),-999,1,1,0,0,1
+108011151,"Bulahdelah, Remainder of State/Territory (NSW), Stroud (L)",2.5,1,2,10,2,1
+108021160,No localities found,6.5,0,1,2,1,1
+108041164,"North Shore (L), Port Macquarie, Remainder of State/Territory (NSW), Riverside (L)",9.2,1,0,1,1,1
+105031106,"Geurie (L), Remainder of State/Territory (NSW), Wellington, Yeoval (L)",9.3,1,4,15,1,1
+108041163,"Port Macquarie, Remainder of State/Territory (NSW)",6.4,0,1,0,0,0
+108041162,"Bonny Hills, Bonny Hills - West (L), Camden Haven, Kendall (L), King Creek (L), Lake Cathie, Remainder of State/Territory (NSW), Wauchope",5.2,0,1,5,1,1
+108021159,"Bowraville (L), Macksville, Remainder of State/Territory (NSW), Valla Beach",3.4,0,1,13,0,0
+108041166,"Beechwood (L), King Creek (L), Port Macquarie, Remainder of State/Territory (NSW), Wauchope",5.3,1,1,6,1,1
+108051171,No localities found,7.2,1,1,2,0,1
+108051168,"Diamond Beach (L), Hallidays Point - Black Head (L), Hallidays Point - West (L), Manning Point (L), Old Bar, Rainbow Flat (L), Red Head (L), Remainder of State/Territory (NSW), Tallwoods Village (L), Wallabi Point (L)",2.9,0,0,4,0,0
+109011172,"Albury - Wodonga (Albury Part), Remainder of State/Territory (NSW), Remainder of State/Territory (Vic.)",6.7,1,0,1,0,1
+108051169,No localities found,11.9,1,1,3,1,2
+109011173,"Albury - Wodonga (Albury Part), Remainder of State/Territory (NSW)",7.2,0,0,1,0,0
+109011174,"Albury - Wodonga (Albury Part), Albury - Wodonga (Wodonga Part), Remainder of State/Territory (NSW), Remainder of State/Territory (Vic.)",15.3,1,1,2,0,0
+109011176,"Albury - Wodonga (Albury Part), Remainder of State/Territory (NSW)",12,0,0,2,1,1
+109021178,"Dareton (L), Merbein, Mildura - Buronga (Buronga Part), Mildura - Buronga (Mildura Part), Remainder of State/Territory (NSW), Remainder of State/Territory (Vic.), Wentworth",7.5,1,3,5,1,1
+104011081,"Clarenza (L), Coutts Crossing (L), Glenreagh (L), Grafton, Lawrence (L), Maclean, Minnie Water (L), Remainder of State/Territory (NSW), Tucabia (L), Ulmarra (L), Waterview Heights (L), Wooli (L)",3,0,6,27,0,5
+109031180,"Corowa - Wahgunyah (Corowa Part), Corowa - Wahgunyah (Wahgunyah Part), Remainder of State/Territory (NSW), Remainder of State/Territory (Vic.)",8.8,1,1,2,1,1
+108021156,"Crescent Head (L), Frederickton, Hat Head (L), Kempsey, Remainder of State/Territory (NSW), Smithtown - Gladstone (L), Stuarts Point (L)",6.6,0,3,16,0,1
+109031182,"Deniliquin, Remainder of State/Territory (NSW)",8.9,1,1,2,1,1
+109031184,"Echuca - Moama (Echuca Part), Echuca - Moama (Moama Part), Remainder of State/Territory (NSW), Remainder of State/Territory (Vic.)",5.4,0,1,2,0,1
+108051167,"Gloucester, Remainder of State/Territory (NSW)",6.4,1,1,14,1,1
+109031181,"Bundalong (L), Howlong, Oaklands (L), Remainder of State/Territory (NSW), Remainder of State/Territory (Vic.), Urana (L), Yarrawonga - Mulwala (Mulwala Part), Yarrawonga - Mulwala (Yarrawonga Part)",3.5,1,5,14,0,1
+109011175,"Albury - Wodonga (Albury Part), Culcairn, Henty (L), Holbrook, Jindera, Remainder of State/Territory (NSW), Remainder of State/Territory (Vic.), Walla Walla (L)",3.2,3,4,20,1,2
+110011186,"Armidale, Remainder of State/Territory (NSW)",9.9,1,1,4,1,1
+109031185,"Barooga, Berrigan (L), Cobram, Finley, Jerilderie (L), Remainder of State/Territory (NSW), Remainder of State/Territory (Vic.), Tocumwal",4.8,4,5,12,3,2
+110011188,No localities found,3.8,0,1,8,0,1
+110021191,"Gilgai (L), Inverell, Remainder of State/Territory (NSW)",8.4,1,1,2,1,1
+109021177,"Hay, Remainder of State/Territory (NSW)",6.9,1,1,8,1,1
+108041165,"Beechwood (L), North Shore (L), Remainder of State/Territory (NSW), Riverside (L), Telegraph Point (L), Wauchope",1.5,0,2,11,0,0
+110021193,"Bingara, Delungra (L), Remainder of State/Territory (NSW), Warialda",5.7,2,4,18,2,2
+110021190,"Deepwater (L), Emmaville (L), Glen Innes, Remainder of State/Territory (NSW)",9.1,2,3,15,1,2
+109031183,"Barham - Koondrook (Barham Part), Barham - Koondrook (Koondrook Part), Echuca - Moama (Moama Part), Mathoura (L), Moulamein (L), Nyah (L), Remainder of State/Territory (NSW), Remainder of State/Territory (Vic.), Swan Hill",3.5,1,3,31,1,2
+110041202,"Calala, Kingswood (L), Remainder of State/Territory (NSW), Tamworth",9.8,0,0,2,1,0
+110031195,"Moree, Remainder of State/Territory (NSW)",11.6,1,1,2,1,2
+110031197,"Narrabri, Remainder of State/Territory (NSW)",9.1,1,1,4,1,1
+110041199,"Gunnedah, Remainder of State/Territory (NSW)",7.7,1,1,2,1,2
+110031198,"Narrabri, Remainder of State/Territory (NSW), Wee Waa",5.8,1,4,13,1,2
+110021192,"Ashford (L), Bundarra (L), Gilgai (L), Remainder of State/Territory (NSW), Remainder of State/Territory (Qld), Tingha (L), Toomelah (L)",3.3,1,4,15,1,3
+108051170,"Coopernook (L), Harrington, Lansdowne (L), Nabiac (L), Rainbow Flat (L), Remainder of State/Territory (NSW), Taree, Wingham",2.1,0,1,17,0,1
+110041200,"Boggabri (L), Curlewis (L), Gunnedah, Remainder of State/Territory (NSW)",2.3,1,3,10,1,2
+110041203,"Nemingha (L), Remainder of State/Territory (NSW), Tamworth",7.1,1,1,1,1,0
+110041201,"Quirindi, Remainder of State/Territory (NSW), Wallabadah (L), Werris Creek",6.5,2,3,14,1,1
+110041204,No localities found,12.4,0,0,1,0,1
+111011207,Newcastle,8.7,0,0,0,0,0
+111011206,Newcastle,7.6,1,1,1,1,0
+111011208,Newcastle,7.5,0,1,1,0,0
+110011189,No localities found,3.6,1,3,11,1,1
+111011210,Newcastle,11.8,0,0,1,0,0
+111011211,Newcastle,2.9,0,0,0,0,0
+111011209,"Newcastle, Remainder of State/Territory (NSW)",7,0,0,1,1,0
+106041129,"Aberdeen, Merriwa (L), Murrurundi (L), Remainder of State/Territory (NSW)",3.1,2,4,24,2,3
+111011213,Newcastle,1.2,0,0,0,0,0
+111011212,"Murrays Beach (L), Newcastle, Nords Wharf (L), Remainder of State/Territory (NSW)",7.2,0,1,3,0,1
+110011187,"Guyra, Remainder of State/Territory (NSW)",3.8,1,1,18,1,1
+111011214,"Newcastle, Remainder of State/Territory (NSW)",5.8,0,0,0,1,1
+111021215,"Newcastle, Remainder of State/Territory (NSW)",6.4,0,0,1,0,0
+111021216,"Morisset - Cooranbong, Remainder of State/Territory (NSW)",2.9,0,0,1,0,0
+111021219,"Awaba (L), Newcastle, Remainder of State/Territory (NSW)",6.9,0,1,2,1,0
+111021217,"Minmi (L), Newcastle, Remainder of State/Territory (NSW)",2.8,0,0,0,0,0
+111021220,"Newcastle, Remainder of State/Territory (NSW)",2.4,0,0,1,0,0
+110021194,No localities found,6,2,2,14,2,2
+111021221,"Killingworth (L), Minmi (L), Newcastle, Remainder of State/Territory (NSW), Seahampton (L)",2.5,0,0,5,0,0
+111031224,Newcastle,19.6,0,0,0,1,0
+111031222,Newcastle,7.1,0,0,0,0,0
+111021218,"Central Coast, Morisset - Cooranbong, Newcastle, Remainder of State/Territory (NSW), Wyee, Wyee Point",5.5,1,1,7,1,1
+111031223,"Maitland (NSW), Newcastle, Raymond Terrace, Remainder of State/Territory (NSW), Tomago (L)",10.7,0,1,1,1,0
+111031225,Newcastle,9.2,1,0,1,0,0
+111031226,"Minmi (L), Newcastle, Remainder of State/Territory (NSW)",2.6,0,0,1,0,0
+111031228,Newcastle,7.4,0,0,1,0,0
+111031229,Newcastle,10.6,1,1,1,0,0
+111031227,Newcastle,15,0,0,1,0,0
+111031230,Newcastle,-999,0,0,0,0,0
+111031232,"Newcastle, Remainder of State/Territory (NSW)",7.2,0,1,1,1,0
+111031234,Newcastle,9.7,1,1,0,0,0
+111031231,"Newcastle, Remainder of State/Territory (NSW)",16.6,0,0,0,1,0
+112011236,"Ballina, Lennox Head, Remainder of State/Territory (NSW)",9.2,1,1,1,1,1
+112011240,"Byron Bay, Ewingsdale (L), Remainder of State/Territory (NSW)",6,1,1,2,0,0
+111031235,Newcastle,12,0,0,1,0,1
+112011239,"Brunswick Heads, Ocean Shores, Remainder of State/Territory (NSW), South Golden Beach",3.6,0,1,1,0,0
+114011275,No localities found,0,0,0,0,0,0
+111031233,"Newcastle, Remainder of State/Territory (NSW)",9.7,0,0,1,0,0
+112011242,"Lennox Head, Lennox Head - West (L), Remainder of State/Territory (NSW), Skennars Head",1.8,0,0,1,0,0
+112011241,"Broadwater (L), Evans Head, Remainder of State/Territory (NSW), Woodburn (L)",7.5,0,2,4,1,2
+112011238,"Bangalow, Byron Bay, Ewingsdale (L), Remainder of State/Territory (NSW)",0.4,0,1,2,1,0
+112011243,"Mullumbimby, Ocean Shores, Remainder of State/Territory (NSW), South Golden Beach",3,1,1,6,1,1
+112021244,"Casino, Fairy Hill (L), Remainder of State/Territory (NSW), Wooroowoolgan (L)",9.3,1,1,1,1,1
+112021246,"Lismore, Remainder of State/Territory (NSW), Richmond Hill (L)",6.2,0,0,1,0,1
+112011237,"Alstonville, Ballina, Cumbalum (L), Remainder of State/Territory (NSW), Tintenbar (L), Wardell (L), Wollongbar",2.8,0,2,5,0,0
+112021248,"Lismore, Remainder of State/Territory (NSW), Richmond Hill (L)",10.1,2,1,2,1,1
+110041205,"Attunga (L), Barraba, Kingswood (L), Kootingal, Manilla, Moonbi (L), Nundle (L), Remainder of State/Territory (NSW), Tamworth",3.4,2,6,26,2,3
+112031251,"Murwillumbah, Remainder of State/Territory (NSW)",9,1,1,2,1,1
+112031250,"Cudgen (L), Gold Coast - Tweed Heads (Tweed Heads Part), Remainder of State/Territory (NSW)",4.5,0,1,2,1,0
+109021179,"Balranald, Euston (L), Remainder of State/Territory (NSW), Remainder of State/Territory (Vic.), Robinvale, Tooleybuc (L), Wentworth",7.7,1,2,32,1,1
+112031550,"Gold Coast - Tweed Heads (Tweed Heads Part), Remainder of State/Territory (NSW)",7.1,0,0,0,0,1
+112031551,"Gold Coast - Tweed Heads (Tweed Heads Part), Remainder of State/Territory (NSW)",0.4,0,0,0,0,0
+112031253,"Burringbar (L), Gold Coast - Tweed Heads (Tweed Heads Part), Hastings Point (L), Pottsville, Remainder of State/Territory (NSW)",3.4,0,0,3,0,1
+112031552,Gold Coast - Tweed Heads (Tweed Heads Part),9.1,0,0,2,0,0
+112031254,"Gold Coast - Tweed Heads (Gold Coast Part), Gold Coast - Tweed Heads (Tweed Heads Part), Remainder of State/Territory (NSW), Remainder of State/Territory (Qld)",11.4,1,1,1,1,0
+112031252,"Murwillumbah, Nunderi (L), Remainder of State/Territory (NSW), Remainder of State/Territory (Qld), Tumbulgum (L), Tyalgum (L), Uki (L)",1.3,0,0,4,0,0
+113011256,"Beelbangera (L), Griffith, Remainder of State/Territory (NSW)",7.8,1,1,2,1,1
+113011258,"Leeton, Remainder of State/Territory (NSW), Yanco (L)",6.2,1,1,3,1,1
+113021261,No localities found,8.9,1,1,2,1,1
+113011259,"Barellan (L), Narrandera, Remainder of State/Territory (NSW)",8.3,1,3,14,1,1
+113031263,"Cootamundra, Remainder of State/Territory (NSW), Stockinbingal (L)",8.9,1,3,8,1,1
+112021249,"Caniaba (L), Clunes (L) (NSW), Coraki (L), Dunoon (L), Lismore, Modanville (L), Nimbin (L), Remainder of State/Territory (NSW), Richmond Hill (L), Woodburn (L)",3,1,1,16,0,0
+110031196,"Ashley (L), Boggabilla (L), Goondiwindi, Moree, Mungindi (NSW Part) (L), Pallamallawa (L), Remainder of State/Territory (NSW), Remainder of State/Territory (Qld), Toomelah (L)",4.3,0,5,16,1,3
+112021245,"Bonalbo (L), Coraki (L), Fairy Hill (L), Remainder of State/Territory (NSW)",3.9,2,3,21,1,2
+113031264,"Gundagai, Remainder of State/Territory (NSW)",4.5,1,1,10,1,1
+113031268,"Estella, Remainder of State/Territory (NSW), Wagga Wagga",4,0,0,0,0,0
+113031265,"Junee, Remainder of State/Territory (NSW)",6.1,1,1,13,1,1
+113031267,"Forest Hill, Remainder of State/Territory (NSW), Wagga Wagga",4.3,0,0,0,0,0
+112021247,"Kyogle, Remainder of State/Territory (NSW), Remainder of State/Territory (Qld), Urbenville (L), Woodenbong (L)",5.7,1,2,10,1,1
+113031266,"Ardlethan (L), Ariah Park (L), Remainder of State/Territory (NSW), Temora",6.2,1,3,10,2,1
+113031269,No localities found,6.7,0,0,1,1,0
+113031270,No localities found,12.7,1,1,3,0,2
+114011274,"Culburra Beach - Orient Point, Greenwell Point, Remainder of State/Territory (NSW)",6.4,0,1,2,1,0
+114011273,"Callala Bay, Culburra Beach - Orient Point, Currarong (L), Remainder of State/Territory (NSW), Woollamia (L)",3.9,0,0,3,0,0
+113011257,"Beelbangera (L), Bilbul (L), Coleambally (L), Darlington Point (L), Goolgowi (L), Griffith, Hanwood (L), Hillston, Remainder of State/Territory (NSW), Whitton (L), Yenda",2.5,1,8,24,2,3
+114011276,"Callala Bay, Huskisson (L), Jervis Bay (L), Old Erowal Bay, Remainder of State/Territory (NSW), Vincentia, Woollamia (L)",4.2,0,1,2,1,0
+114011277,"Cambewarra Village, Nowra - Bomaderry, Remainder of State/Territory (NSW), Tapitallee (L)",5.7,0,0,1,1,0
+114011272,"Berry, Kangaroo Valley (L), Remainder of State/Territory (NSW), Shoalhaven Heads",3.7,1,2,5,1,0
+114011280,"Berrara - Cudmirrah (L), Remainder of State/Territory (NSW), Sussex Inlet",6.9,0,1,2,1,0
+114011278,"Nowra - Bomaderry, Nowra Hill (L), Remainder of State/Territory (NSW)",8.3,1,1,3,0,1
+114011279,"Basin View, Erowal Bay (L), Old Erowal Bay, Remainder of State/Territory (NSW), St Georges Basin - Sanctuary Point, Sussex Inlet",3.6,0,0,2,0,1
+114011281,"Basin View, Callala Bay, Falls Creek (L) (NSW), Nowra Hill (L), Old Erowal Bay, Remainder of State/Territory (NSW), St Georges Basin - Sanctuary Point, Tomerong (L), Woollamia (L)",0.8,0,0,3,0,0
+114021285,"Balmoral (L), Bowral - Mittagong, Colo Vale, Hill Top, Remainder of State/Territory (NSW), Yanderra (L), Yerrinbool (L)",1.4,0,0,4,0,0
+114011282,"Kings Point (L), Milton, Remainder of State/Territory (NSW), Ulladulla",5.4,1,1,2,1,1
+114021284,"Bowral - Mittagong, Remainder of State/Territory (NSW)",3.5,1,1,1,1,0
+114021286,"Bowral - Mittagong, Remainder of State/Territory (NSW)",5.6,0,0,3,0,1
+114021287,"Berrima (L), Bowral - Mittagong, Moss Vale, New Berrima (L), Remainder of State/Territory (NSW)",4.8,0,1,3,0,1
+113021262,"Adelong (L), Batlow, Remainder of State/Territory (ACT), Remainder of State/Territory (NSW), Talbingo (L), Tumut",3.6,1,3,15,1,0
+114011283,"Bawley Point (L), Berrara - Cudmirrah (L), Conjola Park (L), Cunjurong Point - Manyana (L), Fishermans Paradise (L), Kings Point (L), Kioloa (L), Lake Conjola (L), Lake Tabourie (L), Milton, Remainder of State/Territory (NSW), Sussex Inlet, Ulladulla",1.6,0,0,7,0,0
+115011294,No localities found,2.7,0,0,1,0,0
+114021288,"Bowral - Mittagong, Burrawang (L), Remainder of State/Territory (NSW), Robertson",1.1,0,1,4,0,0
+115011290,Sydney,4.9,0,0,1,0,1
+115011291,Sydney,1.3,0,0,0,0,0
+115011296,Sydney,1.7,0,0,0,0,0
+115011559,Sydney,1.2,0,0,2,0,0
+115011553,Sydney,3.9,0,0,0,1,0
+114021289,"Bowral - Mittagong, Bundanoon, Exeter (L) (NSW), Remainder of State/Territory (NSW), Wingello (L)",1.2,0,1,10,0,0
+115041301,"Pitt Town, Remainder of State/Territory (NSW), Sydney",1.6,0,0,2,0,0
+115011554,Sydney,11.4,0,0,0,0,0
+115011557,Sydney,0.9,0,0,0,0,0
+115011555,Sydney,2.5,0,1,1,0,0
+115011556,Sydney,1.9,0,0,0,0,0
+115011558,Sydney,3.3,0,0,1,0,0
+115021298,"Galston, Remainder of State/Territory (NSW), Sydney",2.3,0,0,2,0,0
+116011303,Sydney,11.8,1,1,0,1,0
+116011304,Sydney,9.9,0,0,0,0,0
+115031300,"Bowen Mountain, Freemans Reach, Glossodia, Kurmond (L), Kurrajong, Kurrajong Heights (L), Pitt Town, Remainder of State/Territory (NSW), Sydney, Wilberforce",1.4,0,0,12,0,1
+116011306,Sydney,8.7,0,0,1,0,0
+115041302,No localities found,1.6,0,0,3,0,0
+116011307,Sydney,10.6,0,0,0,0,1
+123011433,No localities found,4.5,1,0,1,1,0
+116011560,Sydney,9.8,0,0,0,0,0
+115021297,"Glenorie (L), Kenthurst (L), Remainder of State/Territory (NSW), Sydney",2.7,0,1,14,0,0
+123031447,"Buxton, Couridjah (L), Picton, Picton - West (L), Remainder of State/Territory (NSW), Tahmoor, Thirlmere",4.3,0,1,6,1,1
+125031483,Sydney,12.6,0,0,1,0,0
+116011561,Sydney,11,0,0,0,0,0
+113031271,"Coolamon, Estella, Forest Hill, Ganmain (L), Ladysmith (L), Lockhart (L), Remainder of State/Territory (NSW), San Isidore (L), Tarcutta (L), The Rock (L), Uranquinty (L), Wagga Wagga",2.4,2,5,52,2,2
+116021562,Sydney,0,0,0,0,0,0
+125031486,Sydney,-999,0,0,0,0,0
+116011308,Sydney,8.8,0,0,1,0,1
+124011450,No localities found,5.2,0,0,5,0,0
+116021309,Sydney,1.7,0,0,0,0,0
+116031314,Sydney,2.9,0,0,0,0,0
+123031446,"Appin, Douglas Park, Menangle (L), Menangle Park (L), Picton, Remainder of State/Territory (NSW), Sydney, Wilton",2.2,0,0,5,0,0
+125031487,Sydney,-999,0,0,1,0,0
+126021499,Sydney,7.9,0,0,0,0,0
+116031313,Sydney,16.4,0,0,0,0,1
+124011453,"Blue Mountains, Linden (L), Remainder of State/Territory (NSW), Sydney",5.3,0,1,5,0,0
+125031482,Sydney,3.6,0,0,0,0,0
+126021503,Sydney,13.2,0,0,0,0,0
+116021563,Sydney,2.6,0,1,0,0,0
+124011449,"Blackheath, Blue Mountains, Medlow Bath (L), Mount Victoria (L), Remainder of State/Territory (NSW)",10.2,0,2,7,0,0
+116021310,Sydney,1.1,0,0,0,0,0
+113021260,"Khancoban (L), Remainder of State/Territory (NSW), Remainder of State/Territory (Vic.), Tumbarumba",4.8,1,2,14,1,2
+124011455,"Blue Mountains, Remainder of State/Territory (NSW)",5.7,0,0,2,0,0
+126011496,Sydney,4.8,0,0,1,0,0
+116031315,Sydney,2.9,0,0,1,0,0
+118011342,Sydney,-999,0,0,0,0,0
+117011320,Sydney,-999,0,0,0,0,0
+116031317,Sydney,19.7,1,1,1,0,0
+116031318,Sydney,-999,0,0,1,0,0
+116031316,No localities found,12.9,0,0,2,1,0
+117011321,Sydney,6.2,0,0,1,0,0
+124011452,"Blue Mountains, Medlow Bath (L), Remainder of State/Territory (NSW)",16,1,1,5,1,1
+126021501,Sydney,10.3,2,0,0,0,0
+117011324,Sydney,-999,0,0,0,0,0
+117011325,Sydney,-999,0,0,0,0,0
+124011451,"Blackheath, Blue Mountains, Kurrajong Heights (L), Linden (L), Medlow Bath (L), Remainder of State/Territory (NSW), Sydney",-999,0,0,1,0,0
+126021497,Sydney,12.5,1,1,1,1,0
+117011323,Sydney,18.3,0,0,0,0,0
+124011454,No localities found,5,1,1,4,1,0
+126021500,Sydney,16.5,0,0,0,0,1
+127021519,Sydney,8.5,0,0,1,0,0
+117011322,Sydney,19,0,1,1,1,0
+116031319,Sydney,5.6,0,0,1,0,0
+116021312,No localities found,2.5,0,1,4,1,0
+124031457,Sydney,3.5,0,0,0,0,0
+117021328,Sydney,16.4,0,0,0,0,1
+117031329,Sydney,41.3,2,0,1,0,0
+117031330,Sydney,19.4,0,0,1,0,1
+124031459,No localities found,5.9,0,0,0,0,0
+126021591,Sydney,14.7,1,1,1,0,0
+127011504,Sydney,18.1,0,0,1,1,0
+117021327,Sydney,21.7,0,0,0,0,0
+117031336,Sydney,53.4,1,1,0,0,0
+117031333,Sydney,49.5,0,2,0,0,0
+117021326,Sydney,19.5,0,1,1,1,0
+117031337,Sydney,52,1,2,2,0,0
+127011592,No localities found,-999,0,0,0,0,0
+117031331,Sydney,32.2,0,1,1,0,0
+115031299,No localities found,2.5,0,0,9,0,0
+127021513,Sydney,13.2,0,0,0,0,0
+127031601,Sydney,17,0,0,0,0,0
+117031334,Sydney,37,0,0,1,0,0
+127021515,Sydney,19.9,0,1,0,0,0
+127031599,Sydney,21,0,0,0,0,0
+117031332,Sydney,28.8,2,1,1,0,0
+127031598,Sydney,17.6,1,1,0,1,1
+117031335,Sydney,50.4,0,1,1,1,0
+128011531,Sydney,3.9,0,0,0,0,0
+117031338,Sydney,32,0,0,0,0,0
+118011339,Sydney,17.1,0,0,0,0,0
+118011340,Sydney,21.8,0,1,1,1,0
+127031524,No localities found,3.2,0,0,1,0,0
+118011341,Sydney,22.3,1,1,0,0,1
+118011344,Sydney,8.4,0,0,0,0,0
+128011529,No localities found,5.9,0,0,1,0,0
+118011347,Sydney,13.2,0,0,1,0,0
+118011343,Sydney,12.3,0,1,0,0,0
+118011346,Sydney,9.6,0,0,0,0,0
+118011345,Sydney,17.7,0,1,0,1,0
+128011603,Sydney,2.5,0,0,0,0,0
+118021564,Sydney,23.2,0,0,0,0,0
+118021565,Sydney,31,0,0,0,0,0
+118021566,Sydney,11,0,0,0,0,1
+118021348,Sydney,16.5,0,0,0,0,0
+128011606,Sydney,5.6,0,0,0,0,0
+118021567,Sydney,19.4,0,0,1,1,0
+118021568,Sydney,15.5,0,1,0,0,0
+118021350,Sydney,11.6,1,0,1,0,0
+118021569,Sydney,17.8,0,1,1,0,0
+119041378,Sydney,18.8,1,1,1,1,0
+118021570,Sydney,23.2,3,0,0,1,0
+119031372,Sydney,7.8,0,0,1,1,1
+124041468,"Agnes Banks (L), Remainder of State/Territory (NSW), Sydney, Yarramundi (L)",2.8,0,0,3,0,0
+125011473,Sydney,5.9,0,0,1,0,0
+119011355,Sydney,2.3,0,0,0,0,0
+119031374,Sydney,12.6,0,1,1,1,0
+125011475,Sydney,-999,0,0,0,0,0
+119011356,Sydney,8.3,0,0,0,0,0
+119041379,Sydney,10.7,1,0,0,0,1
+124041467,No localities found,6.7,1,1,2,0,0
+128021609,Sydney,0,0,0,0,0,0
+119011354,Sydney,9.9,0,1,0,0,1
+119011358,Sydney,9.9,0,0,0,0,0
+119041382,Sydney,11,0,0,0,0,0
+120011385,Sydney,7.7,0,0,1,1,0
+119011571,Sydney,14.1,0,1,1,1,0
+120011386,Sydney,8.4,0,1,0,0,1
+128021533,No localities found,3.1,0,0,1,0,0
+119011357,Sydney,8.5,0,0,0,0,0
+120021387,Sydney,13,1,1,1,0,0
+128021534,No localities found,0.4,0,0,1,0,0
+119011361,Sydney,9.6,0,0,0,0,0
+120021389,Sydney,10.1,0,0,0,1,0
+128021536,Sydney,4.7,0,0,0,0,0
+119011572,Sydney,14.8,1,0,0,1,1
+119011360,No localities found,12.9,0,1,1,0,0
+121011401,Sydney,22.6,1,0,1,2,1
+128011604,"Bundeena, Maianbar (L), Remainder of State/Territory (NSW), Sydney",6.5,0,1,5,1,1
+119021362,Sydney,11.9,0,0,0,0,0
+121021403,No localities found,5.7,0,0,3,0,0
+128021607,No localities found,2.9,0,1,2,1,0
+119021574,Sydney,13.8,0,0,0,0,0
+119021363,Sydney,17.1,2,1,1,1,0
+121021406,No localities found,4.5,0,0,1,0,1
+128021538,No localities found,9.9,0,1,1,0,0
+119011359,No localities found,8.1,0,0,0,0,0
+119021573,Sydney,11.2,0,0,1,0,0
+121031407,Sydney,4.2,0,1,0,0,0
+121031408,Sydney,6.3,0,0,0,0,0
+128021535,No localities found,4.6,0,1,4,1,1
+119021366,Sydney,12,0,0,0,0,0
+121031409,Sydney,2.7,0,0,1,0,0
+119021367,Sydney,6.9,0,0,0,0,1
+121041413,Sydney,11.1,0,0,0,0,0
+128021537,"Bundeena, Maianbar (L), Remainder of State/Territory (NSW), Sydney",-999,0,0,1,0,2
+119031370,Sydney,12.1,0,0,0,0,0
+121041414,Sydney,14.4,0,0,1,0,0
+119031368,Sydney,18.9,0,0,0,0,0
+119021364,Sydney,9,0,0,0,0,0
+119031369,Sydney,12,0,0,1,0,0
+121041416,Sydney,18.9,0,0,1,0,0
+119031373,Sydney,22.9,0,1,0,0,0
+119031371,Sydney,6.3,0,0,0,0,0
+121041417,Sydney,23.8,0,1,0,0,1
+121031410,No localities found,1.7,0,0,0,1,0
+119041375,Sydney,19.3,0,0,1,0,0
+119041376,Sydney,13.5,0,0,0,0,1
+119041377,Sydney,10.7,0,1,0,0,0
+119041380,Sydney,11,0,0,0,0,0
+119041381,Sydney,15.6,0,0,0,0,0
+120011383,Sydney,6,0,0,0,0,0
+120011384,Sydney,12.7,2,0,2,1,0
+120031392,Sydney,13.1,0,0,0,0,0
+121041415,Sydney,9.9,0,1,1,0,1
+120031390,Sydney,23,0,1,1,0,0
+121031412,No localities found,3.6,1,0,1,0,1
+120021388,Sydney,15.4,0,0,1,0,0
+122011418,Sydney,4.8,0,0,0,1,1
+120031391,Sydney,24,0,1,1,0,1
+122011419,Sydney,15.2,1,1,1,0,0
+122021420,Sydney,2,0,0,1,1,0
+120031576,Sydney,6.6,0,0,0,0,0
+121031411,No localities found,3.9,0,0,0,0,0
+122031425,Sydney,2.6,0,0,1,0,0
+120031393,Sydney,12.1,0,0,0,0,0
+122031426,Sydney,10.1,0,1,1,0,0
+120031396,Sydney,17.3,0,0,0,0,0
+122031427,Sydney,4.6,0,0,1,0,0
+122021421,No localities found,5.1,0,0,7,0,0
+123021436,No localities found,10.7,0,0,2,0,0
+120031394,Sydney,17.6,0,0,0,0,0
+122021423,Sydney,2.8,1,1,1,1,0
+122031432,No localities found,0.3,0,0,5,0,1
+123021439,No localities found,-999,0,0,0,0,0
+120031395,Sydney,15,0,0,0,1,1
+122031430,Sydney,6.1,0,0,0,0,0
+123011435,No localities found,0.9,0,0,1,0,0
+120031575,Sydney,18.7,0,1,0,0,1
+122031429,Sydney,5.8,0,0,0,0,0
+121011399,Sydney,10.3,0,0,0,0,0
+121011398,Sydney,20.1,0,1,0,0,0
+122031431,Sydney,5.6,0,0,1,1,0
+123021440,No localities found,5.8,0,0,1,0,0
+121021579,Sydney,13.5,0,0,0,1,0
+122031428,Sydney,1.7,0,1,2,1,0
+123031445,"Bargo, Remainder of State/Territory (NSW), Yanderra (L)",1.8,0,0,3,0,0
+123021444,"Menangle Park (L), Remainder of State/Territory (NSW), Sydney",6.7,0,0,2,0,0
+121021577,No localities found,18.4,1,0,0,0,1
+121011400,Sydney,7.8,1,0,0,1,0
+121011402,Sydney,5.1,0,0,1,0,0
+121021578,No localities found,8.7,0,1,1,0,0
+121021404,"Brooklyn (L), Cowan (L), Dangar Island (L), Remainder of State/Territory (NSW), Sydney",3.8,0,0,7,0,0
+122031424,Sydney,6.6,0,0,0,0,0
+122021422,Sydney,1.8,0,0,0,0,0
+123011434,Sydney,2,0,1,2,0,1
+123031448,"Belimbla Park (L), Oakdale (L), Remainder of State/Territory (NSW), Sydney, The Oaks",1,0,1,5,0,0
+123021438,Sydney,6,0,1,0,0,0
+123021437,No localities found,11,1,1,1,1,0
+123021441,No localities found,8,0,0,2,0,0
+123021442,Sydney,10.2,0,1,1,1,0
+123021443,No localities found,7.4,0,0,3,0,1
+124031464,Sydney,16.1,0,1,1,1,0
+124031465,No localities found,2,0,1,2,1,0
+124031460,No localities found,1,0,0,2,0,0
+124031461,No localities found,6.7,0,0,0,0,0
+124031462,No localities found,13.3,3,0,0,0,1
+124031458,No localities found,2.4,0,0,3,0,0
+124041466,"Agnes Banks (L), Freemans Reach, Glossodia, Remainder of State/Territory (NSW), Richmond North, Sydney",7.5,0,0,1,1,0
+124031463,"Luddenham (L), Mulgoa (L), Orchard Hills (L), Remainder of State/Territory (NSW), Sydney, Wallacia",1.7,0,0,5,0,0
+124051580,Sydney,9.1,0,0,0,1,0
+124051469,No localities found,1,0,0,0,0,0
+124051470,No localities found,2.4,0,0,0,0,0
+125011587,Sydney,9.3,0,0,0,1,0
+125011584,Sydney,8.3,0,0,0,0,0
+125011585,Sydney,12.7,0,0,0,0,0
+125011583,Sydney,17.4,0,0,1,0,0
+124051581,No localities found,16.6,0,1,1,0,0
+125021476,Sydney,5.8,0,0,1,0,0
+125011582,Sydney,14.3,2,1,0,1,1
+125011586,Sydney,13.5,0,0,1,0,0
+124021456,"Blue Mountains, Remainder of State/Territory (NSW), Sydney",-999,0,0,0,0,0
+125031480,Sydney,12.4,1,0,0,1,0
+125021478,Sydney,12.6,0,0,0,0,0
+125031479,Sydney,9.8,0,0,1,0,0
+125031481,Sydney,16.6,0,1,0,0,0
+125021477,Sydney,9.2,0,1,1,0,0
+125031484,Sydney,12.4,0,0,0,0,1
+125041490,Sydney,1.6,0,0,0,0,0
+125041489,Sydney,16.1,0,0,0,0,1
+125041491,Sydney,12.1,3,0,0,1,0
+125041494,Sydney,3.2,0,0,0,0,0
+125041588,Sydney,11.4,0,0,0,0,0
+126011495,Sydney,9.4,0,0,0,0,0
+125031485,Sydney,13.6,0,1,1,0,0
+125041492,Sydney,24.7,0,1,1,1,0
+125041589,Sydney,15.2,0,0,1,0,0
+125041493,Sydney,10.1,0,1,0,0,0
+126021498,Sydney,11.5,0,1,1,0,1
+126021590,Sydney,2.8,0,0,0,0,0
+127011594,Sydney,3.3,0,1,0,0,0
+127021520,Sydney,5.5,0,0,0,0,0
+127011593,No localities found,0.7,0,0,0,0,0
+127011596,Sydney,1.9,0,0,1,0,0
+127011505,No localities found,2.4,0,0,3,0,0
+127021518,No localities found,2.6,0,0,1,0,0
+127011595,No localities found,2.3,0,0,0,0,0
+127011597,No localities found,1.1,0,0,2,0,0
+127021509,Sydney,3.6,0,0,1,0,0
+127021511,Sydney,19.3,0,1,1,0,1
+127021514,Sydney,3.5,0,0,0,0,0
+127011506,No localities found,1,0,0,3,0,0
+127021512,Sydney,11.9,0,0,0,0,0
+127021510,No localities found,4.3,0,0,0,0,0
+127021517,Sydney,6,2,1,0,0,0
+127021521,Sydney,-999,0,0,0,0,0
+127021516,Sydney,9.1,0,0,0,0,0
+127031522,Sydney,9.2,0,0,1,0,0
+127031523,Sydney,3.7,0,0,0,0,0
+128011602,Sydney,11.9,1,0,0,1,0
+128011530,Sydney,11.8,0,1,1,0,0
+127031600,Sydney,1.4,0,0,0,0,0
+128011605,Sydney,2.1,0,0,0,0,0
+128021608,No localities found,3.1,0,0,1,0,0
